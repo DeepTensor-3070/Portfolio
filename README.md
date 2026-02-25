@@ -6,7 +6,7 @@ A personal portfolio website to showcase my projects, skills, and experience as 
 
 ## 🌐 Live Demo
 
-> Coming soon / [View Live](https://your-portfolio-url.com)
+> Coming soon / [View Live](https://portfolio-sigma-lake-34.vercel.app/)
 
 ---
 
@@ -71,8 +71,8 @@ Make sure you have the following installed:
 Feel free to reach out:
 
 - **GitHub:** [@DeepTensor-3070](https://github.com/DeepTensor-3070)
-- **Email:** *(your email here)*
-- **LinkedIn:** *(your LinkedIn here)*
+- **Email:** [Email](subhanshu3070@gmail.com)
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/subhanshu-verma/)
 
 ---
 
